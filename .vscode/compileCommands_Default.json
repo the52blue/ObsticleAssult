@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\Source\\ObsticleAssult\\MovingPLatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\.vscode\\compileCommands_Default\\ObsticleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\Source\\ObsticleAssult\\MovingPLatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\.vscode\\compileCommands_Default\\ObsticleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\Source\\ObsticleAssult\\ObsticleAssult.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\.vscode\\compileCommands_Default\\ObsticleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\Source\\ObsticleAssult\\ObsticleAssult.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\.vscode\\compileCommands_Default\\ObsticleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\Source\\ObsticleAssult\\ObsticleAssult.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\yunus\\Downloads\\UnrealProjects\\ObstacleAssult\\ObsticleAssult\\.vscode\\compileCommands_Default\\ObsticleAssult.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
